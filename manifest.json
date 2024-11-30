@@ -1,0 +1,24 @@
+{
+  "name": "telegram-channels - Telegram频道群组导航",
+  "short_name": "telegram-channels",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "share_target": {
+      "action": "compose",
+      "params": {
+        "title": "title",
+        "text": "text",
+        "url": "url"
+    }
+  },
+  "theme_color": "#f9f9f9",
+  "background_color": "transparent",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
