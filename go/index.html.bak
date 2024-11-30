@@ -107,9 +107,9 @@
         if(r!=null) { return  unescape(r[2]); }
         else { return window.location.pathname.replace('/go/',''); }
     }
-    var username = GetQueryString("");
-    var jump_username = "";
-    var jump_url = encrypt.decode("");
+    var username = GetQueryString("username");
+    var jump_username = "tg://resolve?domain=" + username;
+    var jump_url = encrypt.decode("dGduYXYuZ2l0aHViLmlv");
     var domain = window.location.host;
     document.title = "正在跳转至@" + username +"...";
     if((domain == jump_url )
@@ -127,7 +127,7 @@
     }
     else{
         Swal.fire({icon: "error",title: "错误",text: "链接参数错误，3秒后返回首页"});
-        setTimeout(function(){window.location.href = "";}, 3000);
+        setTimeout(function(){window.location.href = "https://"+jump_url;}, 3000);
     }
     setTimeout(function(){window.opener=null;window.close();}, 30000);
 }
