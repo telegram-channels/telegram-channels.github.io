@@ -109,7 +109,7 @@
     }
     var username = GetQueryString("username");
     var jump_username = "tg://resolve?domain=" + username;
-    var jump_url = encrypt.decode("dGduYXYuZ2l0aHViLmlv");
+    var jump_url = encrypt.decode("dGVsZWdyYW0tY2hhbm5lbHMuZ2l0aHViLmlv");
     var domain = window.location.host;
     document.title = "正在跳转至@" + username +"...";
     if((domain == jump_url )
