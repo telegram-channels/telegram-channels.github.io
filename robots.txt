@@ -3,3 +3,4 @@ Allow: /
 
 
 
+ sitemap: https://telegram-channels.github.io/nodeshare/sitemap.xml
