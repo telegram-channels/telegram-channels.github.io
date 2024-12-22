@@ -1,6 +1,4 @@
 User-agent: *
-Allow: 
-
-
-sitemap: https://telegram-channels.github.io/sitemap.xml
- sitemap: https://telegram-channels.github.io/nodeshare/sitemap.xml
+Disallow: 
+Sitemap: https://telegram-channels.github.io/sitemap.xml
+Sitemap: https://telegram-channels.github.io/nodeshare/sitemap.xml
