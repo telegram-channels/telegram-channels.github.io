@@ -16,30 +16,30 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 ###  高速机场推荐
 
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### 高速机场推荐1
 
-[【快猫】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-注册地址：[【快猫官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【西游云官网（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
 ### 高速机场推荐2
 
-[【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+[【冰灵加速】](https://sulian.info/#/register?code=3R5DYYrL)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+注册地址：[【冰灵加速（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
 ### 高速机场推荐3
 
