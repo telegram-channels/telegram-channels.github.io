@@ -19,13 +19,13 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 ### 高速机场推荐1
 
-[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
+[【西游云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-注册地址：[【西游云官网（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
+注册地址：[【西游云官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ### 高速机场推荐2
 
