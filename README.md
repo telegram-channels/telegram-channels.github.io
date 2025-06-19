@@ -31,7 +31,7 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 [【冰灵加速】](https://sulian.info/#/register?code=3R5DYYrL)
 
-FCCloud全球节点，解锁流媒体GPT，平民价格
+全球节点，解锁流媒体GPT，平民价格
 
 注册地址：[【冰灵加速（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
