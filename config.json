@@ -1,3 +1,7 @@
 {
-  "ossDomain": "https://88cloud.dpdns.org"
+  "urls": [
+    
+    "https://vx.88cloud.dpdns.org",
+    "https://tb.88cloud.dpdns.org"
+  ]
 }
