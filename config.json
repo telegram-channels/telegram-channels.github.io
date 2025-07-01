@@ -1,7 +1,6 @@
 {
-  "primary_website": "https://88cloud.dpdns.org/",
-  "backup_websites": [
-    "https://vx.88cloud.dpdns.org/",
-    "https://tb.88cloud.dpdns.org/"
-  ]
+ https://88cloud.dpdns.org,
+ https://vx.88cloud.dpdns.org,
+ https://tb.88cloud.dpdns.org
+  
 }
