@@ -1,9 +1,7 @@
 {
-  
-    "https://88cloud.dpdns.org",
-    "https://vx.88cloud.dpdns.org",
-    "https://qq.88cloud.dpdns.org",
-    "https://tb.88cloud.dpdns.org",
-    "https://dy.88cloud.dpdns.org"
-  
+  "primary_website": "https://88cloud.dpdns.org/",
+  "backup_websites": [
+    "https://vx.88cloud.dpdns.org/",
+    "https://tb.88cloud.dpdns.org/"
+  ]
 }
